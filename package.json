@@ -23,7 +23,7 @@
     "@fortawesome/vue-fontawesome": "^2.0.6",
     "less": "3.9.0",
     "less-loader": "5.0.0",
-    "vue": "^2.5.2",
+    "vue": "^3.4.27",
     "vue-router": "^3.6.5"
   },
   "devDependencies": {
